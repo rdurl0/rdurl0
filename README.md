@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Raul, data scientist at [Transparência Brasil](https://www.transparencia.org.br/)
+I'm Raul, data scientist at [Transparência Brasil](https://github.com/Transparencia-Brasil)
 
 <!--
 **rdurl0/rdurl0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
